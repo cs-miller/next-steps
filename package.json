@@ -13,12 +13,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ag-grid-community/react": "^26.0.0",
+    "@ag-grid-enterprise/all-modules": "^26.0.1",
     "next": "^11.1.2",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "swr": "^1.0.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.20",
+    "prettier": "^2.3.2",
     "typescript": "^4.4.2"
   }
 }
